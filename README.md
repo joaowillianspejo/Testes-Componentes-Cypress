@@ -25,6 +25,8 @@ Você encontra em: https://git-scm.com/install
 
 ---
 
+#### ⬇️ Clonando o projeto
+
 Via terminal, rode os seguintes comandos:
 
 ```Shell
@@ -36,6 +38,8 @@ cd Testes-Componentes-Cypress
 ```
 
 #### 📦 Para instalar as dependencias:
+
+Via terminal, na pasta do projeto, rode os seguinte comando:
 
 ```Shell
 npm install
@@ -50,3 +54,7 @@ Em um novo terminal, na pasta do projeto, rode os seguintes comandos:
 ```Shell
 npx cypress run --component
 ```
+
+---
+
+Made with ❤️ by [João Willian](https://github.com/joaowillianspejo).
