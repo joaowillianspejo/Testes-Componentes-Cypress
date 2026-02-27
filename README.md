@@ -1,5 +1,7 @@
 # Testando Componentes com Cypress
 
+<img width="1080" height="625" alt="Cardify" src="https://github.com/user-attachments/assets/9b63cd27-b62b-413a-9eed-50ca402f8969" />
+
 ## Clonando e executando em sua máquina
 
 ### Pré-requisito:
